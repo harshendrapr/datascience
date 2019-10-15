@@ -1,1 +1,0 @@
-All programs written in this folder using Python 3
