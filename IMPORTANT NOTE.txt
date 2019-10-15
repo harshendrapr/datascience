@@ -1,2 +1,3 @@
-Go to https://nbviewer.jupyter.org/ , paste complete URL of the ipynb file ; sometimes Github does not render the file, this is the workaround to see the jupyter code
+Go to https://nbviewer.jupyter.org/ , paste complete URL of the ipynb file ; 
+sometimes Github does not render the file, this is the workaround to see the jupyter code
 
